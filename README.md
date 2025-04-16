@@ -1,69 +1,77 @@
-<h1 align="center">Hi there, I'm Jasper Bai 👋</h1>
+<h1 align="center">👋 Hi, I'm Jasper Bai</h1>
 
 <p align="center">
-  <strong>Mid-level Java & Python Software Engineer | Backend-Focused | DevOps-Ready | 5+ Years Experience</strong><br>
-  📍 Toronto, ON, Canada &nbsp;&nbsp;|&nbsp;&nbsp;📧 Jasper.Bai99@gmail.com &nbsp;&nbsp;|&nbsp;&nbsp;📞 +1 438 926 8291
+  <b>Java & Python Software Engineer | Backend Developer | DevOps Enthusiast | Based in Toronto 🇨🇦</b>  
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Software+Engineer+%7C+Java+%26+Python;Always+Building+%26+Improving." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=30C9F7&center=true&vCenter=true&multiline=true&width=600&height=60&lines=5%2B+Years+Software+Engineering+Experience;Building+Enterprise+Systems+%7C+Low-Code+Platforms;Data-driven+Backends+%7C+Microservices+%7C+Cloud+Deployment" alt="typing intro" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-🎯 I'm a versatile software engineer with 5 years of experience building scalable backend platforms, internal developer tools, and data-driven enterprise systems using **Java**, **Python**, and **PostgreSQL**.
+Hi there! I'm **Jasper**, a backend-focused software engineer with over **5 years of experience** building robust enterprise systems, microservices, and internal tools. I'm passionate about clean code, scalable design, and automation.
 
-💡 I enjoy designing microservice-based systems with strong architecture, RESTful APIs, automated CI/CD, and clean data pipelines.
-
-🚀 Currently open to backend/full-stack opportunities in Canada or remote-first environments.
+> “I believe great engineering is not just about writing code, but writing the **right code that lasts**.”
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🔧 Frameworks & Tools
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+**Languages:** Java, Python, SQL, HTML/CSS, JavaScript  
+**Frameworks:** Spring Boot, FastAPI, Flask, Hibernate, MyBatis, React.js, Vue.js  
+**DevOps Tools:** Git, Docker, GitHub Actions, Jenkins, Maven  
+**Databases:** PostgreSQL, MySQL, Oracle, Redis  
+**Cloud & Infra:** AWS EC2, S3, Nginx  
+**Others:** REST APIs, Microservices, Data Modeling, Low-Code Platforms
 
 ---
 
-## 🧩 Featured Projects
+## 🚀 Highlight Projects
 
-### 🔧 Low-Code Development Platform
-- Architected backend & data models for an internal low-code tool.
-- Empowered non-developers to build tools 70% faster.
-- Tech: Java, PostgreSQL, Spring Boot, React, Docker
+### 🔧 Low-Code Platform Builder
+> A visual platform for internal business users to design and deploy apps — without writing code.
 
-### ⚙️ Smart Manufacturing Planning System
-- Led cross-functional team to build real-time planning & scheduling software.
-- Reduced planning cycles by 30% and improved resource alignment.
+🎯 Reduced development time by 70%  
+🧱 Stack: Java, PostgreSQL, Spring Boot, React, Docker  
 
-### 📊 Data Quality & KPI Dashboard
-- Delivered a scalable dashboard solution to monitor operational KPIs.
-- Used Python, SQL, and FastAPI to pipeline and expose real-time data insights.
+![Low-Code Platform GIF](https://user-images.githubusercontent.com/placeholder/lowcode-demo.gif)  
+
+[🔗 View GitHub Repo](https://github.com/JasperBai/low-code-platform)
+
+---
+
+### 📊 KPI Dashboard & Data Monitor
+> A Python + FastAPI based service to track and display production KPIs across manufacturing units.
+
+📈 Supports real-time queries, anomaly alerts, role-based access  
+🧱 Stack: Python, FastAPI, PostgreSQL, Chart.js  
+
+![KPI Dashboard GIF](https://user-images.githubusercontent.com/placeholder/kpi-demo.gif)  
+
+[🔗 View GitHub Repo](https://github.com/JasperBai/kpi-dashboard)
+
+---
+
+### ⚙️ Smart Manufacturing Scheduler
+> Microservices-based platform for real-time production planning and factory coordination.
+
+⏱️ Cut planning cycle time by 30%  
+🧱 Stack: Spring Boot, Kafka, Redis, Vue.js  
+
+![Smart Scheduler GIF](https://user-images.githubusercontent.com/placeholder/smart-scheduler.gif)
+
+[🔗 View GitHub Repo](https://github.com/JasperBai/smart-manufacturing-scheduler)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JasperBai&show_icons=true&theme=radical" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasperBai&layout=compact&theme=radical" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=JasperBai&show_icons=true&theme=tokyonight&hide=issues&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasperBai&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -71,10 +79,11 @@
 ## 📫 Connect with Me
 
 - 📧 Email: [Jasper.Bai99@gmail.com](mailto:Jasper.Bai99@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/jasperbai](https://www.linkedin.com/in/jasperbai)
+- 💼 LinkedIn: [linkedin.com/in/jasperbai](https://linkedin.com/in/jasperbai)  
+- 💡 Open to new opportunities & collaborations!
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JasperBai&label=Profile+Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=JasperBai&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
